@@ -1,0 +1,51 @@
+Name,Age,Email,Salary,Department,Join Date,City,Phone,Rating,Active
+Alice Johnson,29,alice@example.com,72000,Engineering,2021-03-15,New York,555-1234,4.5,Yes
+Bob Smith,,bob@example.com,55000,Marketing,2020-07-22,Los Angeles,,3.8,Yes
+Carol White,34,carol@example.com,,Engineering,2019-11-01,Chicago,555-5678,4.2,Yes
+David Brown,45,david@example.com,90000,Finance,2018-05-30,Houston,555-9012,4.8,Yes
+Eva Martinez,28,,68000,Engineering,2022-01-10,Phoenix,555-3456,,Yes
+Frank Lee,52,frank@example.com,115000,Management,2015-09-14,Philadelphia,555-7890,4.9,Yes
+Grace Kim,31,grace@example.com,61000,Marketing,,San Antonio,555-2345,3.5,
+Henry Wilson,38,henry@example.com,77000,Finance,2020-03-21,San Diego,555-6789,4.1,Yes
+Irene Chen,,irene@example.com,83000,Engineering,2019-08-17,Dallas,,4.6,Yes
+James Taylor,41,james@example.com,,Finance,2017-12-05,San Jose,555-0123,3.9,Yes
+Karen Davis,26,karen@example.com,58000,HR,2023-02-28,Austin,555-4567,,Yes
+Leo Anderson,33,leo@example.com,74000,Engineering,2021-06-19,Jacksonville,555-8901,4.3,Yes
+Mia Thomas,29,,62000,Marketing,2022-09-07,Fort Worth,555-2356,3.7,Yes
+Nathan Jackson,47,nathan@example.com,102000,Management,2016-04-11,Columbus,555-6780,4.7,Yes
+Olivia Harris,35,olivia@example.com,79000,HR,2018-11-23,Charlotte,555-0124,4.0,Yes
+Peter Martinez,30,peter@example.com,65000,Engineering,2022-05-16,Indianapolis,,4.2,Yes
+Quinn Robinson,43,quinn@example.com,88000,Finance,2017-08-09,San Francisco,555-4568,4.5,Yes
+Rachel Clark,27,rachel@example.com,,Marketing,2023-07-01,Seattle,555-8902,,No
+Sam Rodriguez,39,sam@example.com,81000,Engineering,2020-10-14,Denver,555-2357,4.4,Yes
+Tina Lewis,32,tina@example.com,70000,HR,2021-01-25,Nashville,555-6781,3.8,Yes
+Uma Walker,28,uma@example.com,59000,Marketing,2023-03-12,Oklahoma City,555-0125,3.6,Yes
+Victor Hall,50,victor@example.com,110000,Management,,Las Vegas,555-4569,4.8,Yes
+Wendy Allen,36,wendy@example.com,75000,Engineering,2019-07-30,Louisville,555-8903,4.1,Yes
+Xavier Young,44,xavier@example.com,95000,Finance,2016-12-18,Baltimore,555-2358,4.6,No
+Yara Hernandez,25,,55000,HR,2023-09-05,Milwaukee,555-6782,,Yes
+Zach King,37,zach@example.com,78000,Engineering,2020-08-27,Albuquerque,555-0126,4.3,Yes
+Alice Johnson,29,alice@example.com,72000,Engineering,2021-03-15,New York,555-1234,4.5,Yes
+Bob Smith,,bob@example.com,55000,Marketing,2020-07-22,Los Angeles,,3.8,Yes
+Aiden Scott,31,aiden@example.com,66000,Marketing,2021-11-04,Tucson,555-4570,3.9,Yes
+Bella Green,40,bella@example.com,,Finance,2018-06-22,Fresno,555-8904,4.2,Yes
+Carlos Adams,29,carlos@example.com,69000,Engineering,2022-04-17,Sacramento,555-2359,4.0,Yes
+Diana Baker,55,diana@example.com,120000,Management,2013-01-08,Kansas City,555-6783,4.9,Yes
+Ethan Carter,,ethan@example.com,73000,Engineering,2021-09-28,Mesa,555-0127,,Yes
+Fiona Mitchell,33,fiona@example.com,64000,HR,2020-12-14,,555-4571,3.7,Yes
+George Perez,48,george@example.com,98000,Finance,2015-07-03,Virginia Beach,555-8905,4.7,Yes
+Hannah Roberts,27,hannah@example.com,60000,Marketing,2023-05-20,Atlanta,555-2360,3.5,No
+Ian Turner,36,ian@example.com,76000,Engineering,2019-10-11,Colorado Springs,555-6784,4.2,Yes
+Julia Phillips,42,julia@example.com,86000,Finance,,Omaha,555-0128,4.4,Yes
+Kevin Campbell,34,kevin@example.com,71000,HR,2021-04-06,Raleigh,555-4572,,Yes
+Laura Parker,30,laura@example.com,67000,Marketing,2022-08-25,Long Beach,555-8906,3.8,Yes
+Mason Evans,46,mason@example.com,99000,Management,2016-03-17,Minneapolis,555-2361,4.6,Yes
+Nora Edwards,26,nora@example.com,56000,HR,2023-10-01,Tampa,,3.4,Yes
+Oscar Collins,38,oscar@example.com,80000,Engineering,2020-05-09,New Orleans,555-6785,4.3,Yes
+Penny Stewart,32,penny@example.com,,Marketing,2021-08-14,Wichita,555-0129,3.6,Yes
+Ryan Sanchez,41,ryan@example.com,89000,Finance,2017-11-28,Arlington,555-4573,4.5,Yes
+Sara Morris,35,sara@example.com,74000,Engineering,2019-02-19,Bakersfield,555-8907,4.1,No
+Tyler Rogers,29,tyler@example.com,63000,HR,2022-11-07,Aurora,555-2362,,Yes
+Ursula Reed,44,ursula@example.com,94000,Management,2016-09-24,Anaheim,555-6786,4.7,Yes
+Vincent Cook,37,vincent@example.com,77000,Engineering,2020-01-30,Santa Ana,,4.2,Yes
+Wanda Morgan,31,wanda@example.com,68000,Marketing,2021-12-15,Corpus Christi,555-0130,3.9,Yes
