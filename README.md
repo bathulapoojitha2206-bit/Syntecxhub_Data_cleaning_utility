@@ -25,8 +25,8 @@ Upload any CSV file, detect data quality issues, apply cleaning operations, and 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/data-cleaning-utility.git
-cd data-cleaning-utility
+git clone https://github.com/bathulapoojitha2206-bit/Syntecxhub_Data_cleaning_utility.git
+cd Syntecxhub_Data_cleaning_utility
 ```
 
 ### 2. Create a virtual environment (recommended)
@@ -88,7 +88,7 @@ data-cleaning-utility/
 git init
 git add .
 git commit -m "Initial commit – DataCleaner Pro"
-git remote add origin https://github.com/YOUR_USERNAME/data-cleaning-utility.git
+git remote add origin https://github.com/bathulapoojitha2206-bit/Syntecxhub_Data_cleaning_utility.git
 git push -u origin main
 ```
 
